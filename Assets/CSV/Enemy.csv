@@ -1,0 +1,5 @@
+name,speed,atk,hp
+zombie1,0.5,5,10
+zombie2,0.3,10,20
+skeleton1,1,10,10
+skeleton2,0.7,15,5
